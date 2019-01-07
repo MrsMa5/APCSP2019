@@ -6,8 +6,7 @@ This is the repository for Period 5 APCSP
 1. FORK this repository into your own account.
 2. CLONE that copy onto your desktop.
 3. Remember to only make changes to the file that you are assigned.
-4. Team0 through Team5 will be used by the Bucknell participants. 
-5. Team6 through Team10 will be used by the FGCU participants.
+
 ### Updating Repo for Tournament:
 Before your PULL REQUEST for the actual tournament, you need to complete the following:
 1. Delete all files with the '.pyc' extension. 
